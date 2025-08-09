@@ -1,0 +1,52 @@
+<bookID><title><author><genre><available (yes/no)>
+101<>The Great Gatsby<>F. Scott Fitzgerald<>Satire<>no
+102<>1984<>George Orwell<>Dystopian<>yes
+103<>To Kill a Mockingbird<>Harper Lee<>Classic<>yes
+105<>The Catcher in the Rye<>J.D. Salinger<>Fiction<>yes
+106<>Moby-Dick<>Herman Melville<>Adventure<>no
+107<>War and Peace<>Leo Tolstoy<>Historical<>yes
+108<>Brave New World<>Aldous Huxley<>Dystopian<>yes
+109<>The Odyssey<>Homer<>Epic<>no
+110<>The Hobbit<>J.R.R. Tolkien<>Fantasy<>yes
+111<>Crime and Punishment<>Fyodor Dostoevsky<>Psychological<>no
+112<>The Book Thief<>Markus Zusak<>Historical Fiction<>yes
+113<>The Alchemist<>Paulo Coelho<>Adventure<>yes
+114<>Wuthering Heights<>Emily Brontë<>Gothic<>no
+115<>The Divine Comedy<>Dante Alighieri<>Epic<>yes
+116<>Anna Karenina<>Leo Tolstoy<>Realism<>no
+117<>The Picture of Dorian Gray<>Oscar Wilde<>Philosophical<>yes
+118<>Frankenstein<>Mary Shelley<>Horror<>yes
+119<>Don Quixote<>Miguel de Cervantes<>Satire<>no
+120<>The Brothers Karamazov<>Fyodor Dostoevsky<>Philosophical<>yes
+121<>The Count of Monte Cristo<>Alexandre Dumas<>Adventure<>no
+122<>Les Misérables<>Victor Hugo<>Historical Fiction<>yes
+123<>A Tale of Two Cities<>Charles Dickens<>Historical Fiction<>no
+124<>Catch-22<>Joseph Heller<>Satire<>yes
+125<>The Road<>Cormac McCarthy<>Post-apocalyptic<>no
+126<>The Grapes of Wrath<>John Steinbeck<>Historical Fiction<>yes
+127<>The Shining<>Stephen King<>Horror<>yes
+128<>Dracula<>Bram Stoker<>Horror<>no
+129<>The Secret Garden<>Frances Hodgson Burnett<>Children's Literature<>yes
+130<>Great Expectations<>Charles Dickens<>Classic<>no
+131<>Fahrenheit 451<>Ray Bradbury<>Dystopian<>yes
+132<>The Handmaid's Tale<>Margaret Atwood<>Dystopian<>no
+133<>Little Women<>Louisa May Alcott<>Coming-of-age<>yes
+134<>Gone with the Wind<>Margaret Mitchell<>Historical Fiction<>no
+135<>Of Mice and Men<>John Steinbeck<>Classic<>yes
+136<>The Outsiders<>S.E. Hinton<>Young Adult<>no
+137<>A Clockwork Orange<>Anthony Burgess<>Dystopian<>yes
+138<>Lord of the Flies<>William Golding<>Psychological<>no
+139<>The Call of the Wild<>Jack London<>Adventure<>yes
+140<>Heart of Darkness<>Joseph Conrad<>Classic<>no
+141<>The Sun Also Rises<>Ernest Hemingway<>Modernist<>yes
+142<>The Old Man and the Sea<>Ernest Hemingway<>Adventure<>no
+143<>The Bell Jar<>Sylvia Plath<>Literary Fiction<>yes
+144<>The War of the Worlds<>H.G. Wells<>Science Fiction<>no
+145<>The Hitchhiker's Guide to the Galaxy<>Douglas Adams<>Science Fiction<>yes
+146<>Neuromancer<>William Gibson<>Science Fiction<>no
+147<>The Godfather<>Mario Puzo<>Crime Fiction<>yes
+148<>The Girl with the Dragon Tattoo<>Stieg Larsson<>Thriller<>no
+149<>The Silence of the Lambs<>Thomas Harris<>Thriller<>no
+150<>The Hunger Games<>Suzanne Collins<>Dystopian<>no
+152<>Love<>Riya<>Romance<>yes
+153<>You<>Vaibhav Kheriwal<>Romance<>no
